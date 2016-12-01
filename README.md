@@ -1,0 +1,1 @@
+This is a README file. I'm going to use this demonstrate a merge conflict for Hack Reactor students.
